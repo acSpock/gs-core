@@ -1,0 +1,22 @@
+{
+  "name": "gs-core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acSpock/gs-core.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acSpock/gs-core/issues"
+  },
+  "homepage": "https://github.com/acSpock/gs-core#readme",
+  "dependencies":{
+    "express":"latest"
+  }
+}
